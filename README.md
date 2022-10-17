@@ -1,3 +1,5 @@
+<img width="1127" alt="Screen Shot 2022-10-17 at 12 17 49 PM" src="https://user-images.githubusercontent.com/110929917/196230060-eee30c92-abfe-4829-8dc8-edc94eb7b38b.png">
+
 <img width="1018" alt="Screen Shot 2022-10-17 at 10 29 48 AM" src="https://user-images.githubusercontent.com/110929917/196205514-debbd1bf-8bc2-4847-9c51-7d9f98a78429.png">
 
 ## Important results and discussions:
